@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "title": "Third post",
+        "author": "Eliza Smith"
+      },
+      {
+        "title": "Fourth post",
+        "author": "Animal Smith"
+      }
+    ],
+    "profile": {
+      "first_name": "Robert",
+      "last_name": "Mustard",
+      "email": "robertmustard@gmail.com"
+    }
+}

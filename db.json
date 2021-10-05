@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "title": "First post",
+        "author": "Duncan Smith"
+      },
+      {
+        "title": "Second post",
+        "author": "Duncan Smith"
+      }
+    ],
+    "profile": {
+      "first_name": "Duncan",
+      "last_name": "Smith",
+      "email": "duncanssmith@gmail.com"
+    }
+}
